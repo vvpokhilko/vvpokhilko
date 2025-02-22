@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI Engineer
 -----------
 
-Transitioning from a statistician to an AI engineer, gaining expertise in Python, machine learning, and AI model development.
+Statistician and Data Scientist, gaining expertise in Python, machine learning, and AI model development.
 
 * 🌍  I'm based in Virginia Beach, VA
 * 🖥️  See my portfolio at [HuggingFace](http://huggingface.co/drvpokhilko)
